@@ -13,6 +13,7 @@ public class Calculator {
 
     // Código redundante e innecesario
     public void imprimirMensaje() {
+        //he realizado un cambio
         System.out.println("Hola, soy un método inútil");
     }
 }
