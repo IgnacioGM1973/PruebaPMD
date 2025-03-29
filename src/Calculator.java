@@ -12,6 +12,7 @@ public class Calculator {
     }
 
     // Código redundante e innecesario
+    //SEGUNDA PRUEBA
     public void imprimirMensaje() {
         //he realizado un cambio
         // cambio 4
