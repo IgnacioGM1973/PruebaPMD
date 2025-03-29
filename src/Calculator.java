@@ -5,7 +5,7 @@ public class Calculator {
     public int sumar(int a, int b) {
         return a + b;
     }
-
+    //esto es una prueba
     public int dividir(int a, int b) {
         // Error: no maneja división por 0 correctamente
         return a / b;
